@@ -1,0 +1,113 @@
+{
+  "title": "Qual personagem de One Piece você é?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual seria o seu sonho de pirata?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Encontrar o One Piece e se tornar o Rei dos Piratas",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Explorar o mundo e conhecer novas ilhas e culturas",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Dominar todos os mares e governar sobre eles",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Viver livremente sem restrições ou regras",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é o seu estilo de luta preferido?",
+      "options": [
+        { "id": 1, "name": "Luta com espadas", "alias": "A" },
+        {
+          "id": 2,
+          "name": "Luta com punhos e técnicas de artes marciais",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Luta com armas de fogo ou explosivos",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Luta com técnicas de frutas do diabo",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que é mais importante para você em uma tripulação de piratas?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Poder e força para enfrentar qualquer desafio",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Lealdade e companheirismo entre os membros",
+          "alias": "B"
+        },
+        { "id": 3, "name": "Riquezas e tesouros para saquear", "alias": "C" },
+        {
+          "id": 4,
+          "name": "Liberdade e aventura durante as jornadas",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu maior objetivo na vida?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Dominar o mundo e ser reconhecido como o mais poderoso",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Proteger aqueles que são importantes para mim",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Conquistar fama e fortuna para ser respeitado",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Viver livremente e aproveitar cada momento da vida",
+          "alias": "D"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você é como o DOFLAMINGO, ambicioso e poderoso, sempre buscando dominar tudo ao seu redor!",
+    "B": "Você se assemelha ao LUFFY, corajoso e leal, sempre disposto a proteger seus amigos e lutar pela justiça!",
+    "C": "Você é como o CROCODILE, astuto e calculista, buscando riquezas e poder a qualquer custo!",
+    "D": "Você se parece com o SHANKS, um pirata livre e destemido, que valoriza a amizade e a liberdade acima de tudo!"
+  },
+  "image_results": {
+    "A": "https://criticalhits.com.br/wp-content/uploads/2018/10/Doflamingo.jpg",
+    "B": "https://tm.ibxk.com.br/2015/09/09/09165955100389.jpg?ims=1200x675",
+    "C": "https://criticalhits.com.br/wp-content/uploads/2023/05/crocodile-one-piece-1-Critical-Hits.jpg",
+    "D": "https://i0.wp.com/anmtv.com.br/wp-content/uploads/one-piece-shanks.jpg?ssl=1"
+  }
+}
